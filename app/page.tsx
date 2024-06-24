@@ -1,7 +1,6 @@
 import InfiniteScroll from "./_component/infinite-scroll";
 import Uploader from "./_component/uploader";
 import WordPullUp from "./_ui/word-pull-up";
-import { motion } from "framer-motion";
 
 export default function Home() {
   return (
